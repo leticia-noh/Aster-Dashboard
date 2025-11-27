@@ -1,0 +1,11 @@
+{
+    "nome": "Versão",
+    "atributos": {
+        "numeroVersao": "Número da Versão",
+        "dataLancamento": "Data de Lançamento",
+        "arquivoInstalador": "Arquivo Instalador",
+        "patchNotes": "Patch Notes",
+        "produtoId": "Produto"
+    },
+    "displayed": [ "produtoId", "numeroVersao", "dataLancamento", "patchNotes" ]
+}

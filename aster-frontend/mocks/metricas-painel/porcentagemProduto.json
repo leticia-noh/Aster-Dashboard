@@ -1,0 +1,21 @@
+[
+    { "id": 0, "value": 4.72, "label": "Nova" },
+    { "id": 1, "value": 7.64, "label": "Celeste" },
+    { "id": 2, "value": 2.46, "label": "Solaris" },
+    { "id": 3, "value": 8.05, "label": "Eclipt" },
+    { "id": 4, "value": 3.63, "label": "PrismaCut" },
+    { "id": 5, "value": 7.21, "label": "EtherFX" },
+    { "id": 6, "value": 4.26, "label": "Framea" },
+    { "id": 7, "value": 6.35, "label": "Aikonic" },
+    { "id": 8, "value": 7.29, "label": "Orbit" },
+    { "id": 9, "value": 2.32, "label": "Graphia" },
+    { "id": 10, "value": 5.57, "label": "Nebula3D" },
+    { "id": 11, "value": 2.78, "label": "Spectra" },
+    { "id": 12, "value": 6.85, "label": "ScreenFlow" },
+    { "id": 13, "value": 5.94, "label": "LumenFrame" },
+    { "id": 14, "value": 5.38, "label": "AuraPaint" },
+    { "id": 15, "value": 4.72, "label": "LumenDraw" },
+    { "id": 16, "value": 5.15, "label": "Picta" },
+    { "id": 17, "value": 6.93, "label": "BloomBank" },
+    { "id": 18, "value": 2.95, "label": "ChromaSwap" }
+]

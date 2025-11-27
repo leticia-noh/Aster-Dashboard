@@ -1,0 +1,12 @@
+{
+    "nome": "Ticket",
+    "atributos": {
+        "id": "ID",
+        "assunto": "Assunto",
+        "dataEnvio": "Data de Envio",
+        "mensagem": "Mensagem",
+        "status": "Status",
+        "resposta": "Resposta"
+    },
+    "displayed": [ "id", "assunto", "dataEnvio", "status" ]
+}

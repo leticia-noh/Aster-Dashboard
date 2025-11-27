@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Estella Schmidt",
+        "setor": "Estratégia",
+        "user": "estrategia",
+        "avatar": "/mocks/avatars/estrategia.svg"
+    },
+    {
+        "nome": "Faustino Bittencourt",
+        "setor": "Finanças",
+        "user": "financas",
+        "avatar": "/mocks/avatars/financas.svg"
+    },
+    {
+        "nome": "Tiffany Laurence",
+        "setor": "Tech Lead",
+        "user": "techlead",
+        "avatar": "/mocks/avatars/techlead.svg"
+    },
+    {
+        "nome": "Dougllas Adib",
+        "setor": "Data Base Admin",
+        "user": "admin",
+        "avatar": "/mocks/avatars/admin.svg"
+    }
+]

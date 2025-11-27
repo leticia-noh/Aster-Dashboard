@@ -1,0 +1,12 @@
+{
+    "nome": "Feedback",
+    "atributos": {
+        "id": "ID",
+        "assunto": "Assunto",
+        "dataEnvio": "Data de Envio",
+        "mensagem": "Mensagem",
+        "avaliacao": "Avaliação",
+        "atividadeUso": "Atividade de Uso"
+    },
+    "displayed": [ "id", "assunto", "dataEnvio", "avaliacao" ]
+}

@@ -1,0 +1,7 @@
+{
+    "nome": "Usuário",
+    "atributos": {
+        "chaveUso": "Chave de Usuário"
+    },
+    "displayed": [ "chaveUso" ]
+}

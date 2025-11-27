@@ -1,0 +1,9 @@
+{
+    "id": "PROD-004",
+    "nome": "ChipiPicture",
+    "status": "Comercializável",
+    "descricaoBreve": "Software de edição e organização de fotos com recursos avançados.",
+    "icone": "xyz.png",
+    "categorias": ["Fotos", "Vídeo", "Edição"],
+    "descricaoCompleta": "Software de edição e organização de fotos com recursos avançados entre outros."
+}

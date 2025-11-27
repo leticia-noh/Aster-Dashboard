@@ -1,0 +1,9 @@
+{
+    "nome": "Pacote",
+    "atributos": {
+        "nome": "Nome",
+        "precoIndividual": "Preço Individual",
+        "precoOrganizacional": "Preço Organizacional"
+    },
+    "displayed": [ "nome", "precoIndividual", "precoOrganizacional" ]
+}

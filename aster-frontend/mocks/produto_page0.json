@@ -1,0 +1,142 @@
+{
+   "pageNumber": 0,
+   "totalRegistros": 999,
+   "lastPage": 1,
+   "content": [
+        {    
+            "id": "P001",
+            "nome": "Aikonic",
+            "status": "Comercializável",
+            "descricaoBreve": "Descrição breve do Aikonic",
+            "descricaoCompleta": "Descrição do Aikonic",
+            "icone": "Aikonic",
+            "categorias": ["Categoria 1", "Categoria 2"]
+         },
+         { 
+            "id": "P002",
+            "nome": "Orbit",
+            "status": "Comercializável",
+            "descricaoBreve": "Descrição breve do Orbit",
+            "descricaoCompleta": "Descrição do Orbit",
+            "icone": "Orbit",
+            "categorias": ["Categoria 1", "Categoria 3"]
+         },
+         { 
+            "id": "P003",
+            "nome": "Nebula",
+            "status": "Descontinuado",
+            "descricaoBreve": "Descrição breve do Nebula",
+            "descricaoCompleta": "Descrição do Nebula",
+            "icone": "Nebula",
+            "categorias": ["Categoria 2", "Categoria 4"]
+         },
+         { 
+            "id": "P004",
+            "nome": "Zenith",
+            "status": "Comercializável",
+            "descricaoBreve": "Descrição breve do Zenith",
+            "descricaoCompleta": "Descrição do Zenith",
+            "icone": "Zenith",
+            "categorias": ["Categoria 3", "Categoria 4"]
+         },
+         { 
+            "id": "P005",
+            "nome": "Vertex",
+            "descricaoBreve": "Descrição breve do Vertex",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Vertex",
+            "icone": "Vertex",
+            "categorias": ["Categoria 1", "Categoria 2"]
+         },
+         { 
+            "id": "P006",
+            "nome": "Luminex",
+            "descricaoBreve": "Descrição breve do Luminex",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Luminex",
+            "icone": "Luminex",
+            "categorias": ["Categoria 1", "Categoria 3"]
+         },
+         { 
+            "id": "P007",
+            "nome": "Solara",
+            "descricaoBreve": "Descrição breve do Solara",
+            "status": "Descontinuado",
+            "descricaoCompleta": "Descrição do Solara",
+            "icone": "Solara",
+            "categorias": ["Categoria 2", "Categoria 4"]
+         },
+         { 
+            "id": "P008",
+            "nome": "Aether",
+            "descricaoBreve": "Descrição breve do Aether",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Aether",
+            "icone": "Aether",
+            "categorias": ["Categoria 1", "Categoria 2"]
+         },
+         { 
+            "id": "P009",
+            "nome": "Celestia",
+            "descricaoBreve": "Descrição breve do Celestia",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Celestia",
+            "icone": "Celestia",
+            "categorias": ["Categoria 3", "Categoria 4"]
+         },
+         { 
+            "id": "P010",
+            "nome": "Vortex",
+            "descricaoBreve": "Descrição breve do Vortex",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Vortex",
+            "icone": "Vortex",
+            "categorias": ["Categoria 1", "Categoria 2"]
+         },
+         { 
+            "id": "P011",
+            "nome": "Stratos",
+            "descricaoBreve": "Descrição breve do Stratos",
+            "status": "Descontinuado",
+            "descricaoCompleta": "Descrição do Stratos",
+            "icone": "Stratos",
+            "categorias": ["Categoria 2", "Categoria 4"]
+         },
+         { 
+            "id": "P012",
+            "nome": "Eclipse",
+            "descricaoBreve": "Descrição breve do Eclipse",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Eclipse",
+            "icone": "Eclipse",
+            "categorias": ["Categoria 1", "Categoria 3"]
+         },
+         { 
+            "id": "P013",
+            "nome": "Nova",
+            "descricaoBreve": "Descrição breve do Nova",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Nova",
+            "icone": "Nova",
+            "categorias": ["Categoria 1", "Categoria 2"]
+         },
+         { 
+            "id": "P014",
+            "nome": "Pulsar",
+            "descricaoBreve": "Descrição breve do Pulsar",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Pulsar",
+            "icone": "Pulsar",
+            "categorias": ["Categoria 2", "Categoria 3"]
+         },
+         { 
+            "id": "P015",
+            "nome": "Quasar",
+            "descricaoBreve": "Descrição breve do Quasar",
+            "status": "Descontinuado",
+            "icone": "Quasar",
+            "descricaoCompleta": "Descrição do Quasar",
+            "categorias": ["Categoria 3", "Categoria 4"]
+         }
+   ]
+}  

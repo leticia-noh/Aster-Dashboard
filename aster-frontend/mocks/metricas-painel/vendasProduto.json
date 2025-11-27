@@ -1,0 +1,21 @@
+[
+    { "produto": "Nova", "vendas": 173 },
+    { "produto": "Celeste", "vendas": 280 },
+    { "produto": "Solaris", "vendas": 90 },
+    { "produto": "Eclipt", "vendas": 295 },
+    { "produto": "PrismaCut", "vendas": 133 },
+    { "produto": "EtherFX", "vendas": 264 },
+    { "produto": "Framea", "vendas": 156 },
+    { "produto": "Aikonic", "vendas": 233 },
+    { "produto": "Orbit", "vendas": 267 },
+    { "produto": "Graphia", "vendas": 85 },
+    { "produto": "Nebula3D", "vendas": 204 },
+    { "produto": "Spectra", "vendas": 102 },
+    { "produto": "ScreenFlow", "vendas": 251 },
+    { "produto": "LumenFrame", "vendas": 218 },
+    { "produto": "AuraPaint", "vendas": 197 },
+    { "produto": "LumenDraw", "vendas": 173 },
+    { "produto": "Picta", "vendas": 189 },
+    { "produto": "BloomBank", "vendas": 254 },
+    { "produto": "ChromaSwap", "vendas": 108 }
+]

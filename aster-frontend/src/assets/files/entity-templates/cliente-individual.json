@@ -1,0 +1,12 @@
+{
+    "nome": "Cliente - Individual",
+    "atributos": {
+        "documento": "Documento",
+        "nome": "Nome",
+        "email": "Email",
+        "telefone": "Telefone",
+        "regiao": "Região",
+        "atividadeUso": "Atividade de Uso"
+    },
+    "displayed": [ "documento", "nome", "regiao", "atividadeUso" ]
+}

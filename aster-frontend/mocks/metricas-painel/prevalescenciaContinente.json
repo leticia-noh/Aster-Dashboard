@@ -1,0 +1,13 @@
+[
+    { "id": 0, "value": 25, "label": "América do Sul" },
+    { "id": 1, "value": 30, "label": "América do Norte" },
+    { "id": 2, "value": 15, "label": "Europa" },
+    { "id": 3, "value": 10, "label": "Ásia" },
+    { "id": 4, "value": 8, "label": "África" },
+    { "id": 5, "value": 2, "label": "Oceania" },
+    { "id": 6, "value": 10, "label": "Antártida" },
+    { "id": 7, "value": 1, "label": "Outros" },
+    { "id": 8, "value": 1, "label": "Desconhecido" },
+    { "id": 9, "value": 1, "label": "Indefinido" },
+    { "id": 10, "value": 1, "label": "N/A" }
+]

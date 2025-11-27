@@ -1,0 +1,13 @@
+{
+    "nome": "Produto",
+    "atributos": {
+        "id": "ID",
+        "nome": "Nome",
+        "status": "Status",
+        "descricaoBreve": "Descrição Breve",
+        "descricaoCompleta": "Descrição Completa",
+        "icone": "Ícone",
+        "categorias": "Categorias"
+    },
+    "displayed": [ "id", "nome", "categorias", "status" ]
+}

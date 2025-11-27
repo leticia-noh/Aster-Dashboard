@@ -1,0 +1,26 @@
+{  
+  "Licenças": [
+      { "id": 0, "value": 480, "label": "Ativas" },
+      { "id": 1, "value": 80, "label": "Inativas" }
+  ],
+  "Produtos": [
+      { "id": 0, "value": 16, "label": "Comercializável" },
+      { "id": 1, "value": 2, "label": "Em Desenvolvimento" },
+      { "id": 2, "value": 1, "label": "Descontinuado" }
+  ],
+  "Versões": [
+      { "id": 0, "value": 350, "label": "Total" }
+  ],
+  "Clientes": [
+      { "id": 0, "value": 350, "label": "Total" }
+  ],
+  "Pacotes": [
+      { "id": 0, "value": 350, "label": "Total" }
+  ],
+  "Devolutivas": [
+      { "id": 0, "value": 350, "label": "Total" }
+  ],
+  "Usuários": [
+      { "id": 0, "value": 980, "label": "Total" }
+    ]
+  }

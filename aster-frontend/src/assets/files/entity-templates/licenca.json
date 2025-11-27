@@ -1,0 +1,10 @@
+{
+    "nome": "Licença",
+    "atributos": {
+        "id": "ID",
+        "ativa": "Ativa?",
+        "dataRegistro": "Data de Registro",
+        "tipo": "Tipo"
+    },
+    "displayed": [ "id", "dataRegistro", "tipo", "ativa" ]
+}

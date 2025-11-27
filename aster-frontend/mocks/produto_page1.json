@@ -1,0 +1,43 @@
+{
+   "pageNumber": 0,
+   "totalRegistros": 999,
+   "lastPage": 1,
+   "content": [
+         { 
+            "id": "P016",
+            "nome": "Pulsar",
+            "descricaoBreve": "Descrição breve do Pulsar",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Pulsar",
+            "icone": "Pulsar",
+            "categorias": ["Categoria 2", "Categoria 3"]
+         },
+         { 
+            "id": "P017",
+            "nome": "Eclipse",
+            "descricaoBreve": "Descrição breve do Eclipse",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Eclipse",
+            "icone": "Eclipse",
+            "categorias": ["Categoria 1", "Categoria 3"]
+         },
+         { 
+            "id": "P018",
+            "nome": "Nova",
+            "descricaoBreve": "Descrição breve do Nova",
+            "status": "Comercializável",
+            "descricaoCompleta": "Descrição do Nova",
+            "icone": "Nova",
+            "categorias": ["Categoria 1", "Categoria 2"]
+         },
+         { 
+            "id": "P019",
+            "nome": "Comet",
+            "descricaoBreve": "Descrição breve do Comet",
+            "status": "Descontinuado",
+            "descricaoCompleta": "Descrição do Comet",
+            "icone": "Comet",
+            "categorias": ["Categoria 2", "Categoria 4"]
+         }
+   ]
+}

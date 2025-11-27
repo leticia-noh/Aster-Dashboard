@@ -1,0 +1,82 @@
+[
+	{
+		"produto_icone": "001",
+		"media_avaliacoes": 4.9,
+		"versao_atual": "2.5.4"
+	},
+	{
+		"produto_icone": "002",
+		"media_avaliacoes": 4.7,
+		"versao_atual": "1.8.3"
+	},
+	{
+		"produto_icone": "003",
+		"media_avaliacoes": 4.8,
+		"versao_atual": "3.2.1"
+	},
+	{
+		"produto_icone": "004",
+		"media_avaliacoes": 4.6,
+		"versao_atual": "1.9.0"
+	},
+	{
+		"produto_icone": "005",
+		"media_avaliacoes": 5.0,
+		"versao_atual": "4.0.0"
+	},
+	{
+		"produto_icone": "006",
+		"media_avaliacoes": 4.3,
+		"versao_atual": "2.4.1"
+	},
+	{
+		"produto_icone": "007",
+		"media_avaliacoes": 4.9,
+		"versao_atual": "3.1.0"
+	},
+	{
+		"produto_icone": "008",
+		"media_avaliacoes": 4.4,
+		"versao_atual": "1.7.5"
+	},
+	{
+		"produto_icone": "009",
+		"media_avaliacoes": 4.2,
+		"versao_atual": "2.6.2"
+	},
+	{
+		"produto_icone": "010",
+		"media_avaliacoes": 4.6,
+		"versao_atual": "3.0.9"
+	},
+	{
+		"produto_icone": "011",
+		"media_avaliacoes": 5.0,
+		"versao_atual": "2.1.3"
+	},
+	{
+		"produto_icone": "012",
+		"media_avaliacoes": 4.8,
+		"versao_atual": "4.2.7"
+	},
+	{
+		"produto_icone": "013",
+		"media_avaliacoes": 4.7,
+		"versao_atual": "3.3.0"
+	},
+	{
+		"produto_icone": "014",
+		"media_avaliacoes": 4.5,
+		"versao_atual": "1.6.8"
+	},
+	{
+		"produto_icone": "015",
+		"media_avaliacoes": 4.9,
+		"versao_atual": "2.7.1"
+	},
+	{
+		"produto_icone": "016",
+		"media_avaliacoes": 4.3,
+		"versao_atual": "1.9.3"
+	}
+]

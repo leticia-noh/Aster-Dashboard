@@ -1,0 +1,14 @@
+{
+    "nome": "Cliente - Organização",
+    "atributos": {
+        "documento": "Documento",
+        "nome": "Nome",
+        "email": "Email",
+        "telefone": "Telefone",
+        "regiao": "Região",
+        "porte": "Porte",
+        "setorAtuacao": "Setor de Atuação"
+
+    },
+    "displayed": [ "documento", "nome", "regiao", "porte" ]
+}
